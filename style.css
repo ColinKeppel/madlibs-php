@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
     margin: 0;
     padding: 0;
@@ -60,4 +61,54 @@ ul {
     list-style-type: none;
     color: #ffffff;
     display: flex;
+=======
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #8B0000;
+    padding: 15px;
+    list-style: none;
+    display: flex;
+}
+
+header > li {
+    margin: 0 15px 0 0;
+    color: white;
+    font-size: 15px;
+}
+
+body {
+    width: 660px;
+    margin: auto;
+    background-color: #333333;
+}
+
+main {
+    background-color: white;
+    padding: 25px;
+}
+
+banner > h1 {
+    color: white;
+    font-size: 70px;
+    padding: 5px;
+}
+
+input {
+    margin: 4px;
+}
+
+footer {
+    background-color:  dimgray;
+    padding: 5px;
+    text-align:  center;
+    color: white;
+}
+
+p {
+    margin: 10px 0px 10px 0;
+>>>>>>> 98be259499c7e986b92fae8db4f8ada645d4bcce
 }
